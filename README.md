@@ -1,43 +1,43 @@
-# Hi there, I'm Eren Çelik! 👋
+# <p align="center">Hi there! I'm Eren Çelik 🚀</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celiikerenn&show_icons=true&theme=tokyonight&count_private=true" alt="Eren's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20%26%20DevOps%20Enthusiast&fontSize=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=celiikerenn&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Eren's GitHub Stats" />
 </p>
 
 ### 👨‍💻 About Me
-I am a senior **Computer Engineering** student, currently seeking internship or graduate opportunities specializing in **Backend Development** and **DevOps**. I am passionate about building scalable systems, optimizing automation workflows, and exploring cloud-native technologies.
+I am a senior **Computer Engineering** student at **Fenerbahçe University**. Currently, I am actively seeking internship and graduate opportunities in **Backend Development** and **DevOps** to apply my engineering skills in a professional environment.
 
-- 🎓 **Fenerbahçe University** - Computer Engineering (Senior)
-- 🚀 Current Project: **AI-Powered Personal Finance Tracker** (Graduation Project)
-- 🔥 Interests: **Cloud Native, CI/CD, Microservices, API Design.**
-- 🌍 Passionate about traveling and exploring emerging technologies.
+- 🎓 **Education:** Senior Computer Engineering Student.
+- 🚀 **Current Focus:** Building an **AI-Powered Personal Finance Tracker** for my graduation project.
+- 🛠️ **Experience:** Previously interned at **Medicana Health Group** (IT & Software) and **AvionChip Inc.** (FPGA Engineering).
+- 💡 **Passion:** Automating workflows, designing robust APIs, and cloud computing.
 
-### 💼 Experience
-- **Medicana Health Group** | IT & Software Intern (On-site)
-- **AvionChip Inc.** | FPGA Engineer Intern (Remote)
-
-### 🛠 Skills & Tools
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-0058CC?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,linux,cpp,vscode" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiikerenn&layout=compact&theme=tokyonight&hide=html,css" alt="Eren's Top Langs" />
+### 📈 Activity & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiikerenn&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Eren's Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celiikerenn&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/eren-celik01](https://www.linkedin.com/in/eren-celik01/)
-- **Email:** [eren1.celikk@gmail.com](mailto:eren1.celikk@gmail.com)
+### 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/eren-celik01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eren1.celikk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 <p align="center">
-  <i>"Coding to simplify complexity."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
