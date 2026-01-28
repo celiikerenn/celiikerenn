@@ -1,19 +1,15 @@
 # <p align="center">Hi there! I'm Eren Çelik 🚀</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Backend%20%26%20DevOps%20Enthusiast&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celiikerenn&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Eren's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Backend%20%26%20DevOps&fontSize=45&animation=fadeIn" alt="Header" />
 </p>
 
 ### 👨‍💻 About Me
-I am a senior **Computer Engineering** student at **Fenerbahçe University**. Currently, I am actively seeking internship and graduate opportunities in **Backend Development** and **DevOps** to apply my engineering skills in a professional environment.
+I am a senior **Computer Engineering** student at **Fenerbahçe University**. I am actively seeking internship or graduate opportunities in **Backend Development** and **DevOps** to apply my engineering skills in a professional environment.
 
 - 🎓 **Education:** Senior Computer Engineering Student.
 - 🚀 **Current Focus:** Building an **AI-Powered Personal Finance Tracker** for my graduation project.
-- 🛠️ **Experience:** Previously interned at **Medicana Health Group** (IT & Software) and **AvionChip Inc.** (FPGA Engineering).
+- 💼 **Experience:** Former intern at **Medicana Health Group** (IT & Software) and **AvionChip Inc.** (FPGA Engineering).
 - 💡 **Passion:** Automating workflows, designing robust APIs, and cloud computing.
 
 ### 🛠️ Tech Stack & Tools
@@ -21,10 +17,13 @@ I am a senior **Computer Engineering** student at **Fenerbahçe University**. Cu
   <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,linux,cpp,vscode" />
 </p>
 
-### 📈 Activity & Languages
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiikerenn&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Eren's Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celiikerenn&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=celiikerenn&show_icons=true&theme=dracula&hide_border=true" alt="Eren's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiikerenn&layout=compact&theme=dracula&hide_border=true&hide=html,css" alt="Top Langs" />
 </p>
 
 ### 📫 Let's Connect!
@@ -35,9 +34,4 @@ I am a senior **Computer Engineering** student at **Fenerbahçe University**. Cu
   <a href="mailto:eren1.celikk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
