@@ -1,22 +1,22 @@
-# Merhaba, Ben Eren Çelik! 👋
+# Hi there, I'm Eren Çelik! 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=celiikerenn&show_icons=true&theme=tokyonight&count_private=true" alt="Eren's GitHub Stats" />
 </p>
 
-### 👨‍💻 Hakkımda
-Ben **Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim. Şu anda aktif olarak **Backend Development** ve **DevOps** alanlarında staj veya yeni mezun pozisyonları için fırsatları değerlendiriyorum. Ölçeklenebilir sistemler inşa etmek ve otomasyon süreçleri üzerine kendimi geliştirmeye odaklandım.
+### 👨‍💻 About Me
+I am a senior **Computer Engineering** student, currently seeking internship or graduate opportunities specializing in **Backend Development** and **DevOps**. I am passionate about building scalable systems, optimizing automation workflows, and exploring cloud-native technologies.
 
-- 🎓 **Fenerbahçe Üniversitesi** - Bilgisayar Mühendisliği (4. Sınıf)
-- 🚀 Bitirme Projem: **AI-Powered Personal Finance Tracker** (Yapay Zeka Destekli Finans Takibi)
-- 🔥 İlgi Alanlarım: **Cloud Native, CI/CD, Microservices, API Design.**
-- 🌍 Seyahat etmeyi ve yeni teknolojiler keşfetmeyi severim.
+- 🎓 **Fenerbahçe University** - Computer Engineering (Senior)
+- 🚀 Current Project: **AI-Powered Personal Finance Tracker** (Graduation Project)
+- 🔥 Interests: **Cloud Native, CI/CD, Microservices, API Design.**
+- 🌍 Passionate about traveling and exploring emerging technologies.
 
-### 💼 Deneyim
-- **Medicana Health Group** | IT & Software Intern
+### 💼 Experience
+- **Medicana Health Group** | IT & Software Intern (On-site)
 - **AvionChip Inc.** | FPGA Engineer Intern (Remote)
 
-### 🛠 Yetenekler & Araçlar
+### 🛠 Skills & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -28,16 +28,16 @@ Ben **Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim. Şu anda aktif olar
   <img src="https://img.shields.io/badge/Verilog-0058CC?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiikerenn&layout=compact&theme=tokyonight&hide=html,css" alt="Eren's Top Langs" />
 </p>
 
-### 📫 İletişim
-- **LinkedIn:** [in/eren-celik01](https://www.linkedin.com/in/eren-celik01/)
-- **E-posta:** [eren1.celikk@gmail.com](mailto:eren1.celikk@gmail.com)
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/eren-celik01](https://www.linkedin.com/in/eren-celik01/)
+- **Email:** [eren1.celikk@gmail.com](mailto:eren1.celikk@gmail.com)
 
 ---
 <p align="center">
-  <i>"Karmaşıklığı basitleştirmek için kodluyorum."</i>
+  <i>"Coding to simplify complexity."</i>
 </p>
