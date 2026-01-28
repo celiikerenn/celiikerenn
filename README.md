@@ -1,9 +1,5 @@
 # <p align="center">Hi there! I'm Eren Çelik 🚀</p>
 
-<p align="center">
-  <img src="https://kodinger-capsule.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Backend%20%26%20DevOps&fontSize=45&animation=fadeIn" alt="Header" />
-</p>
-
 ### 👨‍💻 About Me
 I am a senior **Computer Engineering** student at **Fenerbahçe University**. Currently, I am actively seeking internship and graduate opportunities in **Backend Development** and **DevOps** to apply my engineering skills in a professional environment.
 
